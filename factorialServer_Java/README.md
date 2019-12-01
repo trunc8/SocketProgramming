@@ -1,10 +1,13 @@
 # Echo Server Application
-Simple application where server returns factorial of the integer received from client.<br>
+Simple application where server returns factorial of the integer received from client.
+
 (Single Client and Single Server)
 
-<h3>How to run</h3>
-Execute in different terminals:<br>
-java FactorialServer<br>
-java FactorialClient<br>
-<br>
-P.S. Execute server before client
+## How to run
+Execute in separate terminals:
+```
+java FactorialServer
+java FactorialClient
+```
+
+Take care to execute server before client
