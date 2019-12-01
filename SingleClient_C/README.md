@@ -1,7 +1,7 @@
 # Single Client
 
-<h2>How to run:</h2>
-gcc client.c -o client<br>
-gcc server.c -o server<br>
-<br>
-Execute ./server before ./client in different shells
+## How to run:
+`gcc client.c -o client
+gcc server.c -o server`
+
+Execute `./server` before `./client` in separate terminals
